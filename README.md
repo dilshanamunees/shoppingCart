@@ -1,2 +1,2 @@
-# shoppingcart
-nodejs project
+# shopingcart
+ shopingCart
