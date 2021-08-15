@@ -48,6 +48,7 @@ if(status){
     })
 }else{
     console.log("cant find email");
+    resolve({status:false})
 }
     })
 },
